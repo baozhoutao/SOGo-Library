@@ -14,6 +14,8 @@ cp -r /usr/lib*/GNUstep/SOGo/MailerUI.SOGo/     ~sogo/GNUstep/Library/SOGo/Maile
 
 # 使用方式
 
-## clone 项目到 ~sogo/GNUstep 文件夹下 `https://github.com/baozhoutao/SOGo-Library.git Library`
+## clone 项目到 ~sogo/GNUstep 文件夹下
+ `git clone https://github.com/baozhoutao/SOGo-Library.git Library`
 
-## 重启SOGo 服务 `systemctl restart sogod.service`
+## 重启SOGo 服务
+ `systemctl restart sogod.service`

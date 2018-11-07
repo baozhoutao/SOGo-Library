@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5106f1db-77be-43fa-9280-38cb0c2bf455" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/MailerUI" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/MailerUI" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Arabic.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Arabic.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Basque.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Basque.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/BrazilianPortuguese.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/BrazilianPortuguese.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Catalan.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Catalan.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/ChineseChina.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/ChineseChina.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/ChineseTaiwan.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/ChineseTaiwan.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Croatian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Croatian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Czech.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Czech.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Danish.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Danish.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Dutch.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Dutch.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/English.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/English.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Finnish.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Finnish.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/French.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/French.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/German.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/German.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Hebrew.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Hebrew.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Hungarian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Hungarian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Icelandic.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Icelandic.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Info-gnustep.plist" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Info-gnustep.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Italian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Italian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Japanese.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Japanese.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Latvian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Latvian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Lithuanian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Lithuanian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Macedonian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Macedonian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/NorwegianBokmal.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/NorwegianBokmal.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/NorwegianNynorsk.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/NorwegianNynorsk.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Polish.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Polish.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Portuguese.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Portuguese.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Romanian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Romanian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Russian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Russian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/SOGoDraftObject.toolbar" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/SOGoDraftObject.toolbar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/SOGoMailFolder.toolbar" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/SOGoMailFolder.toolbar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/SOGoMailObject.toolbar" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/SOGoMailObject.toolbar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Serbian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Serbian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Slovak.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Slovak.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Slovenian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Slovenian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/SpanishArgentina.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/SpanishArgentina.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/SpanishSpain.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/SpanishSpain.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Swedish.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Swedish.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/TurkishTurkey.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/TurkishTurkey.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Ukrainian.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Ukrainian.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/Welsh.lproj/Localizable.strings" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/Welsh.lproj/Localizable.strings" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/Resources/product.plist" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/Resources/product.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/bundle-info.plist" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/bundle-info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/MailerUI.SOGo/stamp.make" afterPath="$PROJECT_DIR$/SOGo/MailerUI.SOGo/stamp.make" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Library/SOGo/Templates/UIxTopnavToolbar.wox" afterPath="$PROJECT_DIR$/SOGo/Templates/UIxTopnavToolbar.wox" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -86,8 +39,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="88" lean-forward="true" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+            <state relative-caret-position="340">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -184,12 +137,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541566366541</updated>
-      <workItem from="1541566370587" duration="1847000" />
+      <workItem from="1541566370587" duration="1910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1847000" />
+    <option name="totallyTimeSpent" value="1910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -242,8 +195,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="88" lean-forward="true" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+        <state relative-caret-position="340">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
           <folding />
         </state>
       </provider>
