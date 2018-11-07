@@ -1,5 +1,5 @@
 
-#[如何自定义HTML？](https://sogo.nu/support/faq/how-to-customize-the-html.html)
+[SOGo如何自定义HTML？](https://sogo.nu/support/faq/how-to-customize-the-html.html)
 
 # 项目创建过程
 
